@@ -3,9 +3,6 @@ import { useState } from "react";
 
 export default function UserInput({onChangeInput, userInputObject}) {
 
-
-
-
   return (
     <section id="user-input">
       <div className="input-group">
